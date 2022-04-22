@@ -15,3 +15,7 @@ WIN 10、IDEA 2020.2.2、JDK 8
 #### 思维导图
 
 ![image](https://github.com/CONTINUE12/JavaSE_course/blob/master/1.png)
+
+#### 其他相关仓库
+
+1.Java技术栈之HTML5学习：https://github.com/CONTINUE12/HTML5_course
