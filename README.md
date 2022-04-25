@@ -27,3 +27,5 @@ WIN 10、IDEA 2020.2.2、JDK 8
 4.Java技术栈之Javaweb学习：https://github.com/CONTINUE12/JavaWeb_course
 
 5.Java技术栈之Maven学习：https://github.com/CONTINUE12/Maven_course
+
+6.Java技术栈之Spring5学习: https://github.com/CONTINUE12/Spring5_course
