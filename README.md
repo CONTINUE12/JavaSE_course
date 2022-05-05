@@ -47,3 +47,5 @@ WIN 10、IDEA 2020.2.2、JDK 8
 14.Java技术栈之SpringCloud学习：https://github.com/CONTINUE12/SpringCloud_course
 
 15.Java技术栈之Dubbo_zookeeper学习：https://github.com/CONTINUE12/Dubbo_zookeeper_course
+
+16.Java技术栈之Linux学习：https://github.com/CONTINUE12/Linux_course
